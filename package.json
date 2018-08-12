@@ -1,7 +1,6 @@
 {
-  "name": "MathCalculator",
+  "name": "com.olale.mathcalculator",
   "version": "0.0.1",
-  "description": "",
   "cordova": {
     "id": "cordova-plugin-mathcalculator",
     "platforms": [
@@ -13,5 +12,18 @@
     "cordova-android"
   ],
   "author": "Aleksandra Lewandowska",
-  "license": "ISC"
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olalew/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olalew/test/issues"
+  },
+  "homepage": "https://github.com/olalew/test#readme",
+  "description": ""
 }
