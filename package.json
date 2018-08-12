@@ -1,0 +1,17 @@
+{
+  "name": "MathCalculator",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-mathcalculator",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Aleksandra Lewandowska",
+  "license": "ISC"
+}
